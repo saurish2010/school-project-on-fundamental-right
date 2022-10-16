@@ -1,0 +1,34 @@
+body{
+    background-image: linear-gradient(orange, white, green);;
+}
+h1{
+    font-family:  monospace;
+    border: dotted;
+    border-color:green;
+    color:blue;
+    background-image: linear-gradient( green);
+    border-radius: 4px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 145px;
+    font-size: 40px;
+    
+
+}
+li{
+    list-style-type: square;
+   margin-left: 400px;
+   margin-top: 25px;
+   font-size: 20px;
+   
+}
+a{
+    list-style-type: square;
+    margin-left: 400px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+p{
+    
+    font-size: 20px;
+}
